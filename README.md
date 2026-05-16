@@ -2,7 +2,7 @@
 
 ## Overview
 
-MineCloud is a cloud-hosted Minecraft multiplayer server deployed on AWS EC2 using Ubuntu Linux and Java.
+CloudCraft is a cloud-hosted Minecraft multiplayer server deployed on AWS EC2 using Ubuntu Linux and Java.
 
 This project demonstrates practical cloud infrastructure skills including:
 
