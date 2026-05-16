@@ -176,4 +176,4 @@ Installed a compatible Java runtime version for the Minecraft server build.
 
 ## Author
 
-Angie Vilchis
+Anyelina Irene Vilchis Sierra
