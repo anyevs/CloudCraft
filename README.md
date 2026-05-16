@@ -148,7 +148,7 @@ Installed a compatible Java runtime version for the Minecraft server build.
 
 ### Multiplayer Connection
 
-![Minecraft Connected](screenshots/minecraft-connected.png)
+![Minecraft Connected](screenshots/minecraft-connected1.png)
 
 ## Future Improvements
 
