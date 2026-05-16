@@ -132,6 +132,23 @@ Solution:
 Installed a compatible Java runtime version for the Minecraft server build.
 
 ---
+## Screenshots
+
+### EC2 Instance
+
+![EC2 Instance](screenshots/ec2-instance.png)
+
+### Security Group Configuration
+
+![Security Group](screenshots/security-group.png)
+
+### Minecraft Server Running
+
+![Terminal](screenshots/terminal-running.png)
+
+### Multiplayer Connection
+
+![Minecraft Connected](screenshots/minecraft-connected.png)
 
 ## Future Improvements
 
