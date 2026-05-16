@@ -21,6 +21,10 @@ This project demonstrates practical cloud infrastructure skills including:
 
 Player → Public IP → Security Group → EC2 Ubuntu Instance → Minecraft Server
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture/aws-minecraft-architecture.png)
+
 ---
 
 ## Technologies Used
