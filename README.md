@@ -149,7 +149,7 @@ Installed a compatible Java runtime version for the Minecraft server build.
 ### Multiplayer Connection
 
 ![Minecraft Connected](screenshots/minecraft-connected1.png)
-![Minecraft Log](screenshots/micraft-user-log.png)
+![Minecraft Log](screenshots/minecraft-user-log.png)
 ## Future Improvements
 
 - Docker containerization
