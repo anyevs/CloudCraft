@@ -150,6 +150,16 @@ Installed a compatible Java runtime version for the Minecraft server build.
 
 ![Minecraft Connected](screenshots/minecraft-connected1.png)
 ![Minecraft Log](screenshots/minecraft-user-log.png)
+
+## Automation Script
+
+The project includes an automated installation script for provisioning the Minecraft server environment.
+---
+bash
+chmod +x install_server.sh
+./install_server.sh
+---
+
 ## Future Improvements
 
 - Docker containerization
